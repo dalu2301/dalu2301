@@ -1,3 +1,3 @@
-# dalu2301
+# Dan Lundberg - dalu2301
 
-Mer information kommer inom kort.
+Detta Github-konto kommer att användas under utbildningen Webbutveckling på Mittuniversitetet, 2023-2025.
