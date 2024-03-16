@@ -9,6 +9,8 @@ För kurserna<sup>1</sup>:
 + [DT200G, Grafisk teknik för webb](https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/DT200G/)
 + [DT003G, Databaser](https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/DT003G/)
 + [DT211G, Frontend-baserad webbutveckling](https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/DT211G/)
++ [DT207G, Backend-baserad webbutveckling](https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/DT207G/)
++ [DT208G, Programmering i TypeScript](https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/DT208G/)
 
 /Dan
 
