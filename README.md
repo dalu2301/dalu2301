@@ -11,6 +11,8 @@ För kurserna<sup>1</sup>:
 + [DT211G, Frontend-baserad webbutveckling](https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/DT211G/)
 + [DT207G, Backend-baserad webbutveckling](https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/DT207G/)
 + [DT208G, Programmering i TypeScript](https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/DT208G/)
++ [IK060G, Projektledning](https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/IK060G/)
++ [DT071G, Programmering i C#.NET](https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/DT071G/)
 
 /Dan
 
